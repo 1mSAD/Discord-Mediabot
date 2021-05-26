@@ -1,4 +1,9 @@
-# Discord-Mediabot
+
+<p align="center">
+  <img width="128" height="128" src="https://user-images.githubusercontent.com/67737881/119644616-1d0b8780-be2e-11eb-82c5-bcf9ed17a730.png">
+</p>
+
+## Discord-Mediabot
 A Discord bot that allows you to share Tiktoks, Instagram posts, reels to discord.
 
 ## Installation
