@@ -36,4 +36,4 @@ IG_PASSWORD=
 proxyip=
 ```
 ## Run on replit
-Repl: [![Run on Repl.it](https://repl.it/badge/github/1mSAD/Discord-Mediabot)](https://repl.it/github/1mSAD/Discord-Mediabot)
+Repl : [![Run on Repl.it](https://repl.it/badge/github/1mSAD/Discord-Mediabot)](https://repl.it/github/1mSAD/Discord-Mediabot)
