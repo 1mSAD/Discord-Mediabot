@@ -4,10 +4,13 @@
 </p>
 
 ## Discord-Mediabot
-A Discord bot that allows you to share Tiktoks, Instagram posts, reels to discord.
-
+A Discord bot that allows you to share Tiktoks, Instagram public/private posts, reels to discord.
+## Run on replit
+Click : [![Run on Repl.it](https://repl.it/badge/github/1mSAD/Discord-Mediabot)](https://repl.it/github/1mSAD/Discord-Mediabot)
 ## Installation
-
+```bash
+git clone https://github.com/1mSAD/Discord-Mediabot.git
+```
 ```bash
 pip install -r requirements.txt 
 ```
@@ -32,8 +35,5 @@ TOKEN=
 stream_email=
 stream_pass=
 IG_USERNAME=
-IG_PASSWORD=
 proxyip=
 ```
-## Run on replit
-Repl : [![Run on Repl.it](https://repl.it/badge/github/1mSAD/Discord-Mediabot)](https://repl.it/github/1mSAD/Discord-Mediabot)

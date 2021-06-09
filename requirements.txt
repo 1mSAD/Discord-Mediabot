@@ -1,0 +1,8 @@
+flask
+requests
+python_dotenv
+discord
+discord.py
+discord-py-slash-command
+instaloader
+pystreamable
