@@ -27,7 +27,7 @@ To  get the instagram session file use
 ```bash
 instaloader -l USERNAME
 ```
-Go to the specified path copy the session-username file to this directory, <- Not required to do this step
+Go to the specified path copy the session-username file to api directory. <- Not required to do this step
 
 .env example
 ```
