@@ -48,7 +48,7 @@ try:
     try:
         L.load_session_from_file(USER)
     except:
-        L.load_session_from_file(USER, f'{session_path}')
+        L.load_session_from_file(USER, f'{session_path}/session-{USER}')
 except:
     print('Instagram Session File Not Found Please Add it, otherwise youll get blocked by instagram.')
 # Get metadata

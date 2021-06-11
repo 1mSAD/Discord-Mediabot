@@ -7,7 +7,7 @@ config = {
     'Prefix': '.',
 
     "INSTA_USER": '' or os.getenv("IG_USERNAME"), # Instagram Username
-    "SESSION-Path": './api/session-{USER}', # get session with instaloader -l USERNAME, then copy the session file to this directory.
+    "SESSION-Path": './api', # get session with instaloader -l USERNAME, then copy the session file to this directory.
 
     "stream_email": '' or os.getenv("stream_email"), # Streamable email https://streamable.com/.
     "stream_pass": '' or os.getenv("stream_pass"), # Streamable pass.
